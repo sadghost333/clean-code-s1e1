@@ -42,11 +42,11 @@ ul {
 }
 
 li, h3 {
-    list-style:none;
+  list-style:none;
 }
 
 input,button{
-    outline:none;
+  outline:none;
 }
 
 button {
@@ -113,11 +113,11 @@ li {
 }
 
 li > * {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 li > input[type="checkbox"] {
-    margin: 0 10px;
+  margin: 0 10px;
 }
 
 li > label {
